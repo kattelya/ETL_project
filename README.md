@@ -13,9 +13,9 @@ https://www.kaggle.com/zernach/2018-airplane-flights
 
 
 Division of labor:  
-Kat: SQL code to define and join tables
-Sreeteja: Clean data in Python
-Melissa: Convert pandas dataframe to SQL and push to Postgres
+Kat: SQL code to define and join tables \
+Sreeteja: Clean data in Python \
+Melissa: Convert pandas dataframe to SQL and push to Postgres 
 
 Scope of work:
 
